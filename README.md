@@ -1,4 +1,4 @@
-End_Seperate_Methods 
+ End_Seperate_Methods 
  
 isspace() 
  
